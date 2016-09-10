@@ -1,0 +1,7 @@
+{
+  "name":"test",
+  "dependencies":{
+    "web-audio-daw": "2.3.1",
+    "jquery": "3.1.0"
+  }
+}
